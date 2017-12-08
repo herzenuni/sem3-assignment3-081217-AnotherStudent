@@ -16,7 +16,7 @@ for index, i in enumerate(data):
 	obj = {}
 	obj.update(
 		{'company':i.get('company'),
-		 'email':i.get('emaild'),
+		 'email':i.get('email'),
 		 'phone':i.get('phone'),
 		 'address':i.get('address')})
 
