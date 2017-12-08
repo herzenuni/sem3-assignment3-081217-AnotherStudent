@@ -3,31 +3,31 @@
 Index 0
 {'address': '623 Hoyt Street, Waverly, Washington, 4681',
  'company': 'PARCOE',
- 'email': None,
+ 'email': 'muriellott@parcoe.com',
  'phone': '+1 (983) 418-2041'}
 
 Index 1
 {'address': '334 Batchelder Street, Worcester, Massachusetts, 2966',
  'company': 'COMTOURS',
- 'email': None,
+ 'email': 'reedlogan@comtours.com',
  'phone': '+1 (801) 482-3149'}
 
 Index 2
 {'address': '991 Sackman Street, Caron, Maine, 5334',
  'company': 'APPLICA',
- 'email': None,
+ 'email': 'bobbiemathews@applica.com',
  'phone': '+1 (966) 405-3143'}
 
 Index 3
 {'address': '917 Minna Street, Emerald, District Of Columbia, 4497',
  'company': 'BOILICON',
- 'email': None,
+ 'email': 'gilmorehendrix@boilicon.com',
  'phone': '+1 (978) 536-2130'}
 
 Index 4
 {'address': '696 Brightwater Avenue, Welda, Mississippi, 9203',
  'company': 'PERMADYNE',
- 'email': None,
+ 'email': 'stellaworkman@permadyne.com',
  'phone': '+1 (997) 448-3432'}
 ```
 
